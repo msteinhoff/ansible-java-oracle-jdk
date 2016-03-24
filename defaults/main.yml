@@ -1,0 +1,6 @@
+---
+java_oracle_jdk_version: 8
+java_oracle_jdk_subversion: 72
+java_oracle_jdk_target_directory: /usr/java
+java_oracle_jdk_global_install: false
+java_oracle_jdk_use_urandom: false
