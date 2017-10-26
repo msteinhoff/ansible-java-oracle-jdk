@@ -2,7 +2,6 @@
 galaxy_info:
   author: Mario Steinhoff
   description: Downloads and installs the Oracle Java SDK.
-  company: catapullt GmbH & Co. KG
   license: MPLv2
   min_ansible_version: 20
   platforms:
